@@ -1,0 +1,46 @@
+
+
+[
+    {
+      "awardTitle": "Tibilian of the Year",
+      "winnerName": "Nithin Nayak",
+      "year": 2021
+    },
+    {
+        "awardTitle": "Project of the year",
+        "winnerName": "cQube",
+        "year": 2021
+    },
+    {
+        "awardTitle": "Star Performer of the year",
+        "winnerName": "Sudev",
+        "year": 2021
+    },
+    {
+        "awardTitle": "Best Mentor",
+        "winnerName": "Manish",
+        "year": 2021
+    },
+    {
+        "awardTitle": "Budding Performer",
+        "winnerName": "Devaraj",
+        "year": 2021
+      },
+      {
+          "awardTitle": "Entrepreneurial Award",
+          "winnerName": "Sanjeev",
+          "year": 2021
+      },
+      {
+          "awardTitle": "Spirit Award",
+          "winnerName": "Mahanth",
+          "year": 2021
+      },
+      {
+          "awardTitle": "Spot Award",
+          "winnerName": "Girish, Deepa and Pandu",
+          "year": 2021
+      }
+
+  ]
+  

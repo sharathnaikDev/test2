@@ -1,0 +1,64 @@
+[
+    {
+     "jobTitle":"freshers",
+     "Openings":1,
+     "mandatorySkills" : "Python and DataBase",
+     "secondarySkills" : "Java, HTML, C ++",
+     "location":"Bangalore",
+     "roleOverview"  : "If you desire to be part of something special, to be part of a winning team, to be part of a fun team – winning is fun. We are looking forward for Software Engineer - Trainee based in Bangalore, India. The Software Engineer - Trainee will be a creative, innovative, and results-oriented person willing to go the extra mile in a fast-paced environment",
+     "eligibilityCriteria":[
+         "Candidate should be 2019, 2020 & 2021 Passed out with good academic throughout (10th , 12th , UG , PG )",
+         "B.E / B.TECH , M.E/M.TECH , BSc , MSc , BCA , MCA With computer science & non computer science background.",
+         "We would prefer candidates having knowledge on Python, Database which are mandatory to have and it is add on advantage for the candidate having knowledge on below skills."
+     ]
+
+    },
+    {
+        "jobTitle":"Data Engineer",
+        "Openings":"1-3 years",
+        "mandatorySkills" : "Python and Cassandra",
+        "secondarySkills" : "Git, SQL",
+        "location":"Bangalore",
+        "roleOverview"  : "If you desire to be part of something special, to be part of a winning team, to be part of a fun team – winning is fun. We are looking forward for Software Engineer - Trainee based in Bangalore, India. The Software Engineer - Trainee will be a creative, innovative, and results-oriented person willing to go the extra mile in a fast-paced environment",
+        "eligibilityCriteria":[
+            "Experience with big data tools: , Spark, Kafka, etc.",
+            "Experience with relational SQL and  databases:  and Cassandra.",
+            "Experience with data pipeline and workflow management tools: Optional",
+            "Experience with  cloud services, Git:",
+            "Experience with stream-processing systems: Storm, Spark-Streaming, etc.",
+            "Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc."   
+        ]
+    },
+    {
+        "jobTitle":"Data Engineer",
+        "openings":"1-3 years",
+        "mandatorySkills" : "Python and Cassandra",
+        "secondarySkills" : "Git, SQL",
+        "location":"Bangalore",
+        "roleOverview"  : "If you desire to be part of something special, to be part of a winning team, to be part of a fun team – winning is fun. We are looking forward for Software Engineer - Trainee based in Bangalore, India. The Software Engineer - Trainee will be a creative, innovative, and results-oriented person willing to go the extra mile in a fast-paced environment",
+        "eligibilityCriteria":[
+            "Experience with big data tools: , Spark, Kafka, etc.",
+            "Experience with relational SQL and  databases:  and Cassandra.",
+            "Experience with data pipeline and workflow management tools: Optional",
+            "Experience with  cloud services, Git:",
+            "Experience with stream-processing systems: Storm, Spark-Streaming, etc.",
+            "Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc."   
+        ]
+    },
+    {
+        "jobTitle":"UI Engineer",
+        "openings":"6-7 years",
+        "mandatorySkills" : "Angular, React and ES6",
+        "secondarySkills" : "HTML/CSS ,SASS/LESS,Bootstrap",
+        "location":"Bangalore",
+        "roleOverview"  : "If you desire to be part of something special, to be part of a winning team, to be part of a fun team – winning is fun. We are looking forward for Software Engineer - Trainee based in Bangalore, India. The Software Engineer - Trainee will be a creative, innovative, and results-oriented person willing to go the extra mile in a fast-paced environment",
+        "eligibilityCriteria":[
+            "6+ years of software development experience in building responsive and intuitive web applications for enterprise software products.",
+            "Design and implement front-end architecture that is aligned with business and technology objectives.",
+            "Development experience with JavaScript, HTML, CSS3, Angular.js , Bootstrap Framework.",
+            "Strong experience in Integrating with REST API on the backend.",
+            "Experience with common developer tools Docker, GIT.",
+            "Prior experience working with Agile/Scrum methodologies. with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc."   
+        ]
+    } 
+]
